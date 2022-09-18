@@ -1,0 +1,20 @@
+// Global text colors
+$body-text-color: var(--ui-body-text-color, $dark) !default;
+$body-bg-color: var(--ui-body-bg-color, $white) !default;
+
+// Button
+$btn-primary-color: var(--ui-btn-primary-color, $white) !default;
+$btn-primary-bg: var(--ui-btn-primary-bg, $green) !default;
+$btn-primary-bg-hover: var(--ui-btn-primary-bg-hover, $green-light) !default;
+
+// Forms
+$form-border-color: var(--ui-form-border-color, $white-dark) !default;
+$form-bg-color: var(--ui-form-bg-color, $white) !default;
+$form-bg-option-selected: var(--ui-form-bg-option-selected, $green) !default;
+$form-color-option-selected: var(--ui-form-color-option-selected, $white) !default;
+$form-bg-color-hover: var(--ui-form-bg-color-hover, $white-dark) !default;
+$form-color: var(--ui-form-color, $dark) !default;
+$form-bg: var(--ui-form-bg, $white) !default;
+$form-error-color: var(--ui-form-error-color, $red) !default;
+$form-error-border: var(--ui-form-error-border, $red) !default;
+$form-border-focus-color: var(--ui-form-border-focus-color, $green) !default;

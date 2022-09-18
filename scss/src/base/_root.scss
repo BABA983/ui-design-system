@@ -1,0 +1,34 @@
+:root {
+  --ui-body-text-color: #{$dark};
+  --ui-body-bg-color: #{$white};
+
+  --ui-btn-primary-color: #{$white};
+  --ui-btn-primary-bg: #{$green};
+  --ui-btn-primary-bg-hover: #{$green-light};
+
+  --ui-btn-secondary-color: #{$white};
+  --ui-btn-secondary-bg: #{$dark};
+
+  --ui-form-color: #{$dark};
+  --ui-form-bg: #{$white};
+  --ui-form-error-color: #{$red};
+  --ui-form-error-border: #{$red};
+  --ui-form-border-focus-color: #{$green};
+
+  --ui-body-font-size: #{$fs-base};
+  --ui-body-font-weight: #{$fw-normal};
+
+  --ui-h1-font-size: #{$h-1};
+  --ui-h2-font-size: #{$h-2};
+  --ui-h3-font-size: #{$h-3};
+  --ui-h4-font-size: #{$h-4};
+  --ui-h5-font-size: #{$h-5};
+  --ui-h6-font-size: #{$h-6};
+
+  --ui-h1-font-weight: #{$fw-medium};
+  --ui-h2-font-weight: #{$fw-medium};
+  --ui-h3-font-weight: #{$fw-medium};
+  --ui-h4-font-weight: #{$fw-normal};
+  --ui-h5-font-weight: #{$fw-normal};
+  --ui-h6-font-weight: #{$fw-light};
+}
