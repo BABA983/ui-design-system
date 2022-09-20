@@ -5,7 +5,7 @@ interface Props {
 }
 const Button = (props: Props) => {
   const { children } = props;
-  return <button>{children}</button>;
+  return <button className='ui-button-container'>{children}</button>;
 };
 
 export default Button;
