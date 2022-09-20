@@ -1,0 +1,79 @@
+.ui-width-none {
+  width: 0;
+}
+
+.ui-height-none {
+  height: 0;
+}
+
+.ui-width-xxxs {
+  width: 0.25rem;
+}
+
+.ui-height-xxxs {
+  height: 0.25rem;
+}
+
+.ui-width-xxs {
+  width: 0.5rem;
+}
+
+.ui-height-xxs {
+  height: 0.5rem;
+}
+
+.ui-width-xs {
+  width: 0.75rem;
+}
+
+.ui-height-xs {
+  height: 0.75rem;
+}
+
+.ui-width-sm {
+  width: 1rem;
+}
+
+.ui-height-sm {
+  height: 1rem;
+}
+
+.ui-width-md {
+  width: 1.5rem;
+}
+
+.ui-height-md {
+  height: 1.5rem;
+}
+
+.ui-width-lg {
+  width: 2rem;
+}
+
+.ui-height-lg {
+  height: 2rem;
+}
+
+.ui-width-xl {
+  width: 3rem;
+}
+
+.ui-height-xl {
+  height: 3rem;
+}
+
+.ui-width-xxl {
+  width: 4.5rem;
+}
+
+.ui-height-xxl {
+  height: 4.5rem;
+}
+
+.ui-width-xxxl {
+  width: 6rem;
+}
+
+.ui-height-xxxl {
+  height: 6rem;
+}

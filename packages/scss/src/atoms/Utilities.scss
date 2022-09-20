@@ -1,0 +1,11 @@
+@import 'foundation/all';
+
+@each $size, $value in $spacing {
+  .ui-width-#{$size} {
+    width: $value;
+  }
+
+  .ui-height-#{$size} {
+    height: $value;
+  }
+}
