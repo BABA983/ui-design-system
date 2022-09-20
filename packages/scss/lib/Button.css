@@ -1,5 +1,6 @@
 .ui-button-container {
   display: flex;
+  justify-content: center;
   background: var(--ui-btn-primary-bg, #5ece7b);
   color: var(--ui-btn-primary-color, #fff);
   border: none;

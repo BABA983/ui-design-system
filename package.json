@@ -6,7 +6,8 @@
   "author": "BABA983 <692877906@qq.com>",
   "license": "MIT",
   "scripts": {
-    "build": "yarn lerna run build"
+    "build": "yarn lerna run build",
+    "dev": "yarn lerna run dev"
   },
   "devDependencies": {
     "lerna": "^5.5.1"
