@@ -34,6 +34,14 @@ $fw-bold: 700;
 $fw-extrabold: 800;
 $fw-black: 900;
 
+$fs: (
+  xs: 0.75rem,
+  sm: 0.875rem,
+  base: 1rem,
+  lg: 1.125rem,
+  xl: 1.5rem,
+);
+
 // Sizes
 $fs-xs: 0.75rem; // 12px
 $fs-sm: 0.875rem; // 14px
