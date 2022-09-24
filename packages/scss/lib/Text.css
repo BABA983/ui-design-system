@@ -1,0 +1,23 @@
+.ui-text {
+  margin: 0;
+}
+
+.ui-text-xs {
+  font-size: 0.75rem;
+}
+
+.ui-text-sm {
+  font-size: 0.875rem;
+}
+
+.ui-text-base {
+  font-size: 1rem;
+}
+
+.ui-text-lg {
+  font-size: 1.125rem;
+}
+
+.ui-text-xl {
+  font-size: 1.5rem;
+}
